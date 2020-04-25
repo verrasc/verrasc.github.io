@@ -1,0 +1,113 @@
+/***** NAVBAR *****/
+.navbar-default {
+  background-color: #456355;
+  border-radius: 0;
+  background-image: none;
+}
+
+/* Navbar title */
+.navbar-default .navbar-brand {
+  font-family:'Staatliches';
+  color: white;
+  font-size: 16px;
+}
+
+/* Navbar hover effects */
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: ##FCD16B;
+}
+
+/* Navbar links */
+.navbar-default .navbar-nav > li > a {
+  font-family:'Staatliches'
+  color: #456355;
+  font-size: 16px;
+}
+
+/* Navbar collapsed styles */
+.navbar-header .navbar-toggle {
+  color: #d3dddc;
+}
+
+.navbar-header .navbar-toggle:hover,
+.navbar-header .navbar-toggle:focus {
+  background-color: #d3dddc;
+  color: #d3dddc;
+}
+
+/*** Portfolio pieces ***/
+.portfolio-thumbnail {
+  background-color: #d3dddc;
+  border-color: #d3dddc;
+  border-width: 1px;
+  width: 95%;
+  margin-top: 42%;
+}
+
+.portfolio-thumbnail:checked,
+.portfolio-thumbnail:hover {
+  border-color: #456355;
+  border-width: 3px;
+}
+
+.portfolio-title {
+  font-weight: bold;
+}
+
+.portfolio-description {
+}
+
+.portfolio-image {
+}
+
+#about-world {
+  max-height: 200px;
+}
+.resume h3 {
+  font-family: 'Permanent Marker';
+}
+
+hr {
+  border-color: #456355;
+  border-width: 2px;
+}
+
+p {
+  font-size: 20px;
+}
+
+a {
+  color: #FCD16B;
+}
+
+a:hover {
+  color: #FCD16B;
+}
+
+.jumbotron {
+  /*background-image: url("../assets/contour-lines.png");*/
+  text-align: center;
+  color: #deb18b;
+  padding: 2%;
+}
+
+.jumbotron h2 {
+  font-family: 'Staatliches';
+  font-size: 36px;
+}
+
+body {
+  padding-top: 50px;
+  font-family: 'Staatliches';
+  background-color: #456355;
+  color: #d3dddc;
+}
+
+canvas {
+  border: 1px solid black;
+  width: 560px;
+  height: 360px;
+}
