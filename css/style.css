@@ -1,6 +1,6 @@
 /***** NAVBAR *****/
 .navbar-default {
-  background-color: #456355;
+  background-color: #DAECED;
   border-radius: 0;
   background-image: none;
 }
@@ -8,8 +8,8 @@
 /* Navbar title */
 .navbar-default .navbar-brand {
   font-family:'Staatliches';
-  color: white;
-  font-size: 16px;
+  color: #B5966D;
+  font-size: 20px;
 }
 
 /* Navbar hover effects */
@@ -17,31 +17,31 @@
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: ##FCD16B;
+    color: #B5966D;
 }
 
 /* Navbar links */
 .navbar-default .navbar-nav > li > a {
   font-family:'Staatliches'
-  color: #456355;
-  font-size: 16px;
+  color: #DAECED;
+  font-size: 20px;
 }
 
 /* Navbar collapsed styles */
 .navbar-header .navbar-toggle {
-  color: #d3dddc;
+  color: #DAECED;
 }
 
 .navbar-header .navbar-toggle:hover,
 .navbar-header .navbar-toggle:focus {
-  background-color: #d3dddc;
-  color: #d3dddc;
+  background-color: #b62a3d;
+  color: #b62a3d;
 }
 
 /*** Portfolio pieces ***/
 .portfolio-thumbnail {
-  background-color: #d3dddc;
-  border-color: #d3dddc;
+  background-color: #DAECED;
+  border-color: #DAECED;
   border-width: 1px;
   width: 95%;
   margin-top: 42%;
@@ -49,7 +49,7 @@
 
 .portfolio-thumbnail:checked,
 .portfolio-thumbnail:hover {
-  border-color: #456355;
+  border-color: #DAECED;
   border-width: 3px;
 }
 
@@ -68,23 +68,35 @@
 }
 .resume h3 {
   font-family: 'Permanent Marker';
+  text-align: center;
+}
+
+h4 {
+  text-align: justify;
 }
 
 hr {
-  border-color: #456355;
-  border-width: 2px;
+  border-color: #27223c;
+  border-width: 3px;
+  text-align: center;
+}
+
+ul {
+  text-align: left;
 }
 
 p {
   font-size: 20px;
+  text-align: center;
 }
 
 a {
-  color: #FCD16B;
+  color: #deb18b;
+  text-align: center;
 }
 
 a:hover {
-  color: #FCD16B;
+  color: #deb18b;
 }
 
 .jumbotron {
@@ -101,8 +113,9 @@ a:hover {
 
 body {
   padding-top: 50px;
+  text-align: center;
   font-family: 'Staatliches';
-  background-color: #456355;
+  background-color: #b62a3d;
   color: #d3dddc;
 }
 

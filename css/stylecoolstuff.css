@@ -8,8 +8,8 @@
 /* Navbar title */
 .navbar-default .navbar-brand {
   font-family:'Staatliches';
-  color: #B5966D;
-  font-size: 16px;
+  color: #d3dddc;
+  font-size: 20px;
 }
 
 /* Navbar hover effects */
@@ -24,7 +24,7 @@
 .navbar-default .navbar-nav > li > a {
   font-family:'Staatliches'
   color: #DAECED;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 /* Navbar collapsed styles */
@@ -102,6 +102,7 @@ a:hover {
 
 body {
   padding-top: 50px;
+  text-align: center;
   font-family: 'Staatliches';
   background-color: #b62a3d;
   color: #d3dddc;
