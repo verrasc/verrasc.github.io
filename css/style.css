@@ -55,7 +55,7 @@
   border-color: #DAECED;
   border-width: 1px;
   width: 95%;
-  margin-top: 42%;
+  margin-top: 100%;
 }
 
 .portfolio-thumbnail:checked,
@@ -136,25 +136,30 @@ canvas {
   height: 360px;
 }
 .containerb {
-  height: 50vh;
+  height: 100vh;
   margin: 2rem;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-rows: .5fr .5fr .5fr;
 }
 .cell {
-  color: #E5C4A1;
-  font-family: roboto;
+  color: #585858;
+  font-family: "Staatliches";
   font-size: 3rem;
   text-align: center;
-  padding: 4rem;
+  padding: 5rem;
 }
 .cell-1 {
   background: #9A872D;
 }
 .cell-2 {
-  background: #F5CDB6
-;
+  background: #F5CDB6;
+  image-orientation: center;
+}
+.cell-2:checked,
+.cell-2:hover {
+  border-color: #DAECED;
+  border-width: 3px;
 }
 .cell-3 {
   background: #F7B0AA;
@@ -166,14 +171,19 @@ canvas {
   background: #541F12;
 }
 .cell-6 {
-  background: #CC8B3C;
+  background: #CECD7B;
 }
 .cell-7 {
   background: #27223C;
 }
 .cell-8 {
-  background: #456355;
+  background: #CC8B3C;
 }
 .cell-9 {
-  background: #CECD7B;
+  background: #456355;
+  image-orientation: center;
+}
+cell-9.portfolio-thumbnail:hover {
+  border: #585858;
+  border-width: thick;
 }
