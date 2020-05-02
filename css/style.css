@@ -132,8 +132,8 @@ canvas {
   grid-template-rows: .5fr .5fr .5fr;
 }
 .container-fluid {
-  padding: 1px;
-  margin: 0 auto;
+  padding: 0px;
+  /*margin: 0 auto;
   /*grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: .5fr .5fr .5fr;*/
 }
@@ -143,13 +143,15 @@ canvas {
   font-size: 3rem;
   text-align: center;
   padding: 25px;
+  border-radius: 7px;
+  /*align-content: center;
+  align-self: center;*/
 }
 .cell-1 {
   background: #9A872D;
 }
 .cell-2 {
-  background: #F5CDB6;
-  image-orientation: center;
+  /*background: #F5CDB6;*/
 }
 .cell-2:checked,
 .cell-2:hover {
@@ -169,17 +171,16 @@ canvas {
   background: #CECD7B;
 }
 .cell-7 {
-  background: #27223C;
+  /*background: #27223C;*/
 }
 .cell-8 {
-  background: #CC8B3C;
+  /*background: #CC8B3C;*/
   font-family: "Acme";
   color: white;
   text-align: center;
 }
 .cell-9 {
-  background: #456355;
-  image-orientation: center;
+  /*background: #456355;*/
 }
 cell-9.portfolio-thumbnail:hover {
   border: #585858;
