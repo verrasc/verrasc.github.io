@@ -1,4 +1,3 @@
-
 .navbar-default {
   background-color: #DAECED;
   border-radius: 0;
@@ -124,49 +123,26 @@ canvas {
   width: 560px;
   height: 360px;
 }
-.containerb {
+.container {
   max-width: 960px;
-  margin: 0 auto;
-  display: flex;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: .5fr .5fr .5fr;
-}
-/*
-*, ::after, ::before {
-  box-sizing: border-box;
-}*/
-.containerc {
-  max-width: 960px;
-  margin: 0 auto;
-  display: flex;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: .5fr .5fr .5fr;
-}
-.containerd {
-  max-width: 1200px;
-  margin: 0 auto;
-  display: flex;
-  padding: 1rem;
-  /*
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: .5fr .5fr .5fr;*/
-}
-
-.col {
-  border: 2px;
-  border-radius: 5px;
   padding: 5px;
+  margin: 0 auto;
+  display: flex;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: .5fr .5fr .5fr;
 }
-
-.col-1 {
-  flex-basis: 33.333%;
+.container-fluid {
+  padding: 1px;
+  margin: 0 auto;
+  /*grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: .5fr .5fr .5fr;*/
 }
 .cell {
   color: #585858;
   font-family: "Staatliches";
   font-size: 3rem;
   text-align: center;
-  padding: 5rem;
+  padding: 25px;
 }
 .cell-1 {
   background: #9A872D;
