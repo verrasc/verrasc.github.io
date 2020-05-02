@@ -125,11 +125,41 @@ canvas {
   height: 360px;
 }
 .containerb {
-  height: 100vh;
-  margin: 2rem;
-  display: grid;
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: .5fr .5fr .5fr;
+}
+/*
+*, ::after, ::before {
+  box-sizing: border-box;
+}*/
+.containerc {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: .5fr .5fr .5fr;
+}
+.containerd {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  padding: 1rem;
+  /*
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: .5fr .5fr .5fr;*/
+}
+
+.col {
+  border: 2px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.col-1 {
+  flex-basis: 33.333%;
 }
 .cell {
   color: #585858;
