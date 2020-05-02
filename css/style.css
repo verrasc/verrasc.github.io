@@ -1,15 +1,4 @@
-/* Font imports
-@import url(//fonts.googleapis.com/css?
-  family=Acme);
-@import url(//fonts.googleapis.com/css?
-  family=Signika);
-@import url(//fonts.googleapis.com/css?
-  family=Permanent+Marker);
-@import url(//fonts.googleapis.com/css?family=Staatliches:300,500);*/
-/***** NAVBAR *****/
-/*a.gfont{
-  font-family:'Staatliches';
-}*/
+
 .navbar-default {
   background-color: #DAECED;
   border-radius: 0;
@@ -178,6 +167,9 @@ canvas {
 }
 .cell-8 {
   background: #CC8B3C;
+  font-family: "Acme";
+  color: white;
+  text-align: center;
 }
 .cell-9 {
   background: #456355;
