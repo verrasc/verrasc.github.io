@@ -82,6 +82,8 @@ hr {
 
 ul {
   text-align: left;
+  font-family: "Signika";
+  font-weight: lighter;
 }
 
 p {
@@ -148,6 +150,7 @@ canvas {
   align-self: center;*/
 }
 .cell-1 {
+  color: #FBFBF8;
   /*background: #9A872D;*/
 }
 .cell-2 {
@@ -159,6 +162,7 @@ canvas {
   border-width: 3px;
 }
 .cell-3 {
+  color: #FBFBF8;
   /*background: #F7B0AA;*/
 }
 .cell-4 {
@@ -176,7 +180,7 @@ canvas {
 .cell-8 {
   /*background: #CC8B3C;*/
   font-family: "Acme";
-  color: white;
+  color: #FBFBF8;
   text-align: center;
 }
 .cell-9 {
