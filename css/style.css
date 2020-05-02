@@ -128,8 +128,8 @@ canvas {
   padding: 5px;
   margin: 0 auto;
   display: flex;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: .5fr .5fr .5fr;
+  /*grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: .5fr .5fr .5fr;*/
 }
 .container-fluid {
   padding: 0px;
@@ -148,7 +148,7 @@ canvas {
   align-self: center;*/
 }
 .cell-1 {
-  background: #9A872D;
+  /*background: #9A872D;*/
 }
 .cell-2 {
   /*background: #F5CDB6;*/
@@ -159,7 +159,7 @@ canvas {
   border-width: 3px;
 }
 .cell-3 {
-  background: #F7B0AA;
+  /*background: #F7B0AA;*/
 }
 .cell-4 {
   background: #A35E60;
