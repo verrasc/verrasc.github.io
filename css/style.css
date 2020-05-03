@@ -7,7 +7,7 @@
 /* Navbar title */
 .navbar-default .navbar-brand {
   font-family: 'Staatliches';
-  color: #B5966D;
+  color: #541F12;
   font-size: 20px;
 }
 
@@ -16,7 +16,7 @@
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #B5966D;
+    color: #1C366B;
 }
 
 /* Navbar links */
@@ -34,16 +34,16 @@
 .navbar-header .navbar-toggle:hover,
 .navbar-header .navbar-toggle:focus {
   background-color: #b62a3d;
-  color: #b62a3d;
+  color: #7496D2;
 }
 
 /*** Portfolio pieces ***/
 .portfolio-thumbnail {
   background-color: #DAECED;
   border-color: #DAECED;
-  border-width: 1px;
+  border-width: .5px;
   width: 95%;
-  margin-top: 100%;
+  margin-top: 5%;
 }
 
 .portfolio-thumbnail:checked,
@@ -101,7 +101,6 @@ a:hover {
 }
 
 .jumbotron {
-  /*background-image: url("../assets/contour-lines.png");*/
   text-align: center;
   color: #deb18b;
   padding: 2%;
@@ -121,7 +120,7 @@ body {
 }
 
 canvas {
-  border: 1px solid black;
+  border: 1px solid #27223C;
   width: 560px;
   height: 360px;
 }
@@ -129,7 +128,8 @@ canvas {
   max-width: 960px;
   padding: 5px;
   margin: 0 auto;
-  display: flex;
+  /*display: flex;*/
+  text-align: center;
   /*grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: .5fr .5fr .5fr;*/
 }
@@ -152,6 +152,10 @@ canvas {
 .cell-1 {
   color: #FBFBF8;
   /*background: #9A872D;*/
+}
+.cell-1 p {
+  font-size: 24px;
+  font-family: "Permanent Marker"
 }
 .cell-2 {
   /*background: #F5CDB6;*/
@@ -186,7 +190,13 @@ canvas {
 .cell-9 {
   /*background: #456355;*/
 }
-cell-9.portfolio-thumbnail:hover {
+.cell-9 .portfolio-thumbnail:hover {
   border: #585858;
   border-width: thick;
+}
+.index h1{
+  font-family: "Permanent Marker";
+}
+.about p{
+  font-family: "Signika"
 }
