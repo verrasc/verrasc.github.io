@@ -198,5 +198,7 @@ canvas {
   font-family: "Permanent Marker";
 }
 .about p{
-  font-family: "Signika"
+  font-family: "Signika";
+  text-align: center;
+  margin: 2px;
 }
