@@ -1,0 +1,271 @@
+/*StyleSheet*/
+body{
+  background: #36454f;
+  /* background: #4a4747 */
+}
+#mapid {
+  height: 500px;
+  width: 70%;
+  display: inline-block;
+  border: 3px solid dimgrey;
+  border-radius: 2px;
+  padding-top: 80px;
+}
+#title{
+  width: 100%;
+  height: 80px;
+  font-size: 40px;
+  font-family: "Oswald";
+  text-align: center;
+  color: seashell;
+}
+.slice{
+    font-family: "Oswald";
+}
+.dataSources {
+  font-family: arial;
+  font-size: 10px;
+  background-color: #36454f;
+  color: seashell;
+  padding-top: 10px;
+  text-align: left;
+  justify-content: center;
+  height: 40px;
+  padding-left: 20px;
+}
+#sidePanel {
+  background-color: #36454f;
+  color: seashell;
+  padding-top:10px;
+  padding-right: 40px;
+  text-align: justify;
+  justify-content: center;
+  padding-left: 20px;
+  width: auto;
+  height: 570px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  font-family: "Poppins";
+  fill: seashell;
+  position: absolute;
+  left: 950px;
+  font-size: 13px;
+}
+#caseStudy{
+  background-color: #36454f;
+  color: seashell;
+  padding-top:10px;
+  padding-right: 40px;
+  padding-bottom:10px;
+  text-align: justify;
+  justify-content: center;
+  padding-left: 0px;
+  width: 300;
+  overflow-x: hidden;
+  overflow-y: auto;
+  font-family: "Poppins";
+  fill: seashell;
+  position: absolute;
+  left: 40px;
+  font-size: 13px;
+}
+.dropdownUS {
+  position: absolute;
+  top: 60px;
+  left: 40px;
+  z-index:10;
+  font-family: "Oswald";
+  font-size: 1em;
+  font-weight: bold;
+  padding: 2px;
+  border: .8px solid dimgrey;
+  box-shadow: 2px 2px 4px #999;
+  border-radius: 50;
+  background-color: seashell;
+}
+.dropdownMI {
+  position: absolute;
+  top: 800px;
+  left: 40px;
+  z-index:10;
+  font-family: "Oswald";
+  font-size: 1em;
+  font-weight: bold;
+  padding: 2px;
+  border: .8px solid dimgrey;
+  box-shadow: 2px 2px 4px #999;
+  border-radius: 50;
+  background-color: seashell;
+}
+.title {
+  color: seashell;
+  font-size: 24px;
+  font-family: "Poppins";
+}
+.counties {
+  stroke: white;
+  stroke-width: .2px;
+  /* stroke-linecap: round; */
+  /* fill: white; */
+}
+.tracts {
+  stroke: white;
+  stroke-width: .2px;
+  /* stroke-linecap: round; */
+  /* fill: white; */
+}
+option {
+  font-weight: normal;
+}
+.infolabel {
+  position: absolute;
+  height: 50px;
+  min-width: 100px;
+  color: #36454F;
+  background-color: seashell;
+  border: solid thin #36454F;
+  border-radius: 10;
+  padding: 5px 10px;
+  top: -75px;
+  font-family: "Arial";
+  font-size: 18px;
+}
+.infolabel h1 {
+  margin: 0 5px 0 0;
+  padding: 0;
+  display: inline-block;
+  line-height: 1em;
+  font-family: "Arial";
+  font-size: 20px;
+  color: #36454F;
+}
+
+.pieText {
+    font-family: "Oswald";
+    font-size: 12px;
+    fill: seashell;
+}
+
+.pieChart {
+    position: absolute;
+    top: 280px;
+    left: 0%
+}
+
+.legend {
+    position: absolute;
+    top: 570px;
+    left: 40px;
+    font-family: "Oswald";
+    font-size: 13px;
+    fill: seashell;
+}
+
+.caseStudyLegend {
+    position: absolute;
+    top: 1300px;
+    left: 500px;
+    font-family: "Oswald";
+    font-size: 13px;
+    fill: seashell;
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: green;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: dimgrey;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#toggleContainer {
+    text-align: center;
+    position: relative;
+    top: 500px;
+    left: 450px;
+}
+/* The switch - the box around the slider */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {display:none;}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #900;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #900;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+.leaflet-control-layers-selector {
+  appearance: checkbox;
+}
+.leaflet-popup-content-wrapper .leaflet-popup-content p {
+  margin: 10px 0;
+  font-family: "Poppins";
+
+}
+.popupCustom .leaflet-popup-content-wrapper{
+  background: seashell;
+  fill: seashell;
+}
