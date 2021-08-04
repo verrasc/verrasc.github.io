@@ -68,22 +68,26 @@
 .resume h3 {
   font-family: 'Permanent Marker';
   text-align: center;
+  font-size: 36px;
 }
 
 h4 {
   text-align: justify;
+  font-size: 24px;
 }
 
 hr {
   border-color: #27223c;
   border-width: 3px;
   text-align: center;
+  /* font-size: 22px; */
 }
 
 ul {
   text-align: left;
   font-family: "Signika";
   font-weight: lighter;
+  font-size: 16.5px;
 }
 
 p {
@@ -92,7 +96,7 @@ p {
 }
 
 a {
-  color: #deb18b;
+  color: #798E9C;
   text-align: center;
 }
 
@@ -115,7 +119,7 @@ body {
   padding-top: 50px;
   text-align: center;
   font-family: 'Staatliches';
-  background-color: #b62a3d;
+  background-color: #F7B0AA;
   color: #d3dddc;
 }
 
@@ -129,16 +133,11 @@ canvas {
   max-width: 960px;
   padding: 5px;
   margin: 0 auto;
-  /*display: flex;*/
   text-align: center;
-  /*grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: .5fr .5fr .5fr;*/
 }
 .container-fluid {
   padding: 0px;
-  /*margin: 0 auto;
-  /*grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: .5fr .5fr .5fr;*/
+  border-radius: 7px;
 }
 .cell {
   color: #585858;
@@ -147,16 +146,13 @@ canvas {
   text-align: center;
   padding: 25px;
   border-radius: 7px;
-  /*align-content: center;
-  align-self: center;*/
 }
 .cell-1 {
   color: #FBFBF8;
-  /*background: #9A872D;*/
 }
 .cell-1 p {
   font-size: 24px;
-  font-family: "Permanent Marker"
+  font-family: "Permanent Marker";
 }
 .cell-2 {
   /*background: #F5CDB6;*/

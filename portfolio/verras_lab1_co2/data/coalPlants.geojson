@@ -1,0 +1,1157 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.997,40.367 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Dalate power station",
+    "capacitymw":3180,
+    "primaryfuel":"Coal",
+    "commissioningyear":2002,
+    "owner":"North United Power Co Ltd",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.0973,23.5655 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Chaozhou Sanbaimen power station",
+    "capacitymw":3200,
+    "primaryfuel":"Coal",
+    "commissioningyear":2008,
+    "owner":"Datang International Power Generation Company",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.7497,24.7277 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Fujian Hongshan power station",
+    "capacitymw":3200,
+    "primaryfuel":"Coal",
+    "commissioningyear":2014,
+    "owner":"Fujian Hongshan Thermal Power",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.5468,23.0056 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Guangdong Huilai power station",
+    "capacitymw":3200,
+    "primaryfuel":"Coal",
+    "commissioningyear":2011,
+    "owner":"Guangdong Yudean Group Co Ltd",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.1085,34.9103 ]
+    },
+    "properties": {
+    "countrylong":"South Korea",
+    "name":"Samcheonpo",
+    "capacitymw":3240,
+    "primaryfuel":"Coal",
+    "commissioningyear":null,
+    "owner":"Korea South East Power (KOSEP)",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.5422,1.334 ]
+    },
+    "properties": {
+    "countrylong":"Malaysia",
+    "name":"Tanjung Bin power station",
+    "capacitymw":3244,
+    "primaryfuel":"Coal",
+    "commissioningyear":2010,
+    "owner":"Malakoff Bhd",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9173,30.6565 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Hanchuan power station",
+    "capacitymw":3260,
+    "primaryfuel":"Coal",
+    "commissioningyear":2007,
+    "owner":"Guodian Changyuan Electric Power Co Ltd",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.6884,31.989 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Zhangjiagang Shazhou power station",
+    "capacitymw":3260,
+    "primaryfuel":"Coal",
+    "commissioningyear":2013,
+    "owner":"Beijing Sanjili Energy Co Ltd",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3464,41.8906 ]
+    },
+    "properties": {
+    "countrylong":"United States of America",
+    "name":"Monroe (MI)",
+    "capacitymw":3293.1,
+    "primaryfuel":"Coal",
+    "commissioningyear":1972.737087,
+    "owner":"DTE Electric Company",
+    "yearofcapacitydata":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.5739,35.467 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Yangcheng power station",
+    "capacitymw":3300,
+    "primaryfuel":"Coal",
+    "commissioningyear":2004,
+    "owner":"Shanxi Datang International Power Generation Co Ltd",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.9671,21.4129 ]
+    },
+    "properties": {
+    "countrylong":"India",
+    "name":"TIRORA TPP",
+    "capacitymw":3300,
+    "primaryfuel":"Coal",
+    "commissioningyear":2013,
+    "owner":"",
+    "yearofcapacitydata":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9731,31.7563 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"CPI Changshu-1 power station",
+    "capacitymw":3320,
+    "primaryfuel":"Coal",
+    "commissioningyear":2005,
+    "owner":"China Power Investment Corporation (CPI)",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.3463,38.1483 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Huadian Ningxia Lingwu power station",
+    "capacitymw":3320,
+    "primaryfuel":"Coal",
+    "commissioningyear":2009,
+    "owner":"Huadian Power International Company Limited",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.7658,38.3722 ]
+    },
+    "properties": {
+    "countrylong":"United States of America",
+    "name":"Gibson",
+    "capacitymw":3339.5,
+    "primaryfuel":"Coal",
+    "commissioningyear":1978,
+    "owner":"Duke Energy Indiana  LLC",
+    "yearofcapacitydata":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.1763,34.3781 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Xuzhou Pengcheng power station",
+    "capacitymw":3340,
+    "primaryfuel":"Coal",
+    "commissioningyear":2006,
+    "owner":"China Resources Power Holdings Co Ltd",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.625,21.7012 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"SDIC Qinzhou power station",
+    "capacitymw":3360,
+    "primaryfuel":"Coal",
+    "commissioningyear":2013,
+    "owner":"SDIC Huajing Power Holdings Ltd",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.7739,48.5497 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Huaneng Yimin power station",
+    "capacitymw":3400,
+    "primaryfuel":"Coal",
+    "commissioningyear":2006,
+    "owner":"Huaneng Yimin Coal & Electric Co Ltd",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.03,-5.892 ]
+    },
+    "properties": {
+    "countrylong":"Indonesia",
+    "name":"PLTU Suralaya",
+    "capacitymw":3400,
+    "primaryfuel":"Coal",
+    "commissioningyear":null,
+    "owner":"PLN -.PT Indonesia Power",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.7692,32.0321 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Jiangsu Nantong power station",
+    "capacitymw":3404,
+    "primaryfuel":"Coal",
+    "commissioningyear":2006,
+    "owner":"China Huaneng Group Corporation (CHNG)",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6685,50.993 ]
+    },
+    "properties": {
+    "countrylong":"Germany",
+    "name":"Niederaussem power station",
+    "capacitymw":3430,
+    "primaryfuel":"Coal",
+    "commissioningyear":1979,
+    "owner":"RWE Power AG",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9222,34.1256 ]
+    },
+    "properties": {
+    "countrylong":"United States of America",
+    "name":"Bowen",
+    "capacitymw":3498.6,
+    "primaryfuel":"Coal",
+    "commissioningyear":1973.402332,
+    "owner":"Georgia Power Co",
+    "yearofcapacitydata":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8075,33.0606 ]
+    },
+    "properties": {
+    "countrylong":"United States of America",
+    "name":"Scherer",
+    "capacitymw":3564,
+    "primaryfuel":"Coal",
+    "commissioningyear":1985.5,
+    "owner":"Georgia Power Co",
+    "yearofcapacitydata":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.3409,-25.9595 ]
+    },
+    "properties": {
+    "countrylong":"South Africa",
+    "name":"Duvha power station",
+    "capacitymw":3600,
+    "primaryfuel":"Coal",
+    "commissioningyear":1982,
+    "owner":"Eskom",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.1423,-26.2804 ]
+    },
+    "properties": {
+    "countrylong":"South Africa",
+    "name":"Matla power station",
+    "capacitymw":3600,
+    "primaryfuel":"Coal",
+    "commissioningyear":1981,
+    "owner":"Eskom",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.2027,48.4652 ]
+    },
+    "properties": {
+    "countrylong":"Ukraine",
+    "name":"Vuglegirska power station",
+    "capacitymw":3600,
+    "primaryfuel":"Coal",
+    "commissioningyear":1973,
+    "owner":"Centrenergo",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.6881,44.2686 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Wujiaqu power station",
+    "capacitymw":3640,
+    "primaryfuel":"Coal",
+    "commissioningyear":2013,
+    "owner":"Xinjiang Nongliushi Coal & Electricity Company",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.3527,-26.7767 ]
+    },
+    "properties": {
+    "countrylong":"South Africa",
+    "name":"Tutuka power station",
+    "capacitymw":3654,
+    "primaryfuel":"Coal",
+    "commissioningyear":1987,
+    "owner":"Eskom",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.975,-26.7403 ]
+    },
+    "properties": {
+    "countrylong":"South Africa",
+    "name":"Lethabo power station",
+    "capacitymw":3708,
+    "primaryfuel":"Coal",
+    "commissioningyear":1987,
+    "owner":"Eskom",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.0293,42.2237 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Huaneng Shangdu power station",
+    "capacitymw":3720,
+    "primaryfuel":"Coal",
+    "commissioningyear":2008,
+    "owner":"North United Power Co Ltd",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.0089,40.0793 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Suizhong power station",
+    "capacitymw":3760,
+    "primaryfuel":"Coal",
+    "commissioningyear":2005,
+    "owner":"CSEC Guohua Intl Power Co Ltd",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 61.7117,57.1067 ]
+    },
+    "properties": {
+    "countrylong":"Russia",
+    "name":"Reftinskaya GRES",
+    "capacitymw":3800,
+    "primaryfuel":"Coal",
+    "commissioningyear":1970,
+    "owner":"PJSC \"Enel Russia\"",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4048,31.4651 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Shidongkou power station",
+    "capacitymw":3820,
+    "primaryfuel":"Coal",
+    "commissioningyear":1997,
+    "owner":"China Huaneng Group Corporation (CHNG)",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.0764,31.9403 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Ligang power station",
+    "capacitymw":3960,
+    "primaryfuel":"Coal",
+    "commissioningyear":2003,
+    "owner":"CITIC Limited",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.2194,36.6148 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Xinyuan Aluminum power station",
+    "capacitymw":3960,
+    "primaryfuel":"Coal",
+    "commissioningyear":2015,
+    "owner":"Chiping Xinyuan Aluminum Co Ltd",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.6275,23.9784 ]
+    },
+    "properties": {
+    "countrylong":"India",
+    "name":"SASAN UMPP",
+    "capacitymw":3960,
+    "primaryfuel":"Coal",
+    "commissioningyear":2013,
+    "owner":"",
+    "yearofcapacitydata":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.6807,22.7489 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Guangdong Shajiao power complex",
+    "capacitymw":3970,
+    "primaryfuel":"Coal",
+    "commissioningyear":1992,
+    "owner":"Guangdong Guanghope Power Co Ltd",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.2933,40.0279 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Datong power station",
+    "capacitymw":3990,
+    "primaryfuel":"Coal",
+    "commissioningyear":2001,
+    "owner":"Guodian Shanxi Branch Co Ltd",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.6128,-23.6678 ]
+    },
+    "properties": {
+    "countrylong":"South Africa",
+    "name":"Matimba power station",
+    "capacitymw":3990,
+    "primaryfuel":"Coal",
+    "commissioningyear":1989,
+    "owner":"Eskom",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.9145,32.1872 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Guodian Taizhou power station",
+    "capacitymw":4000,
+    "primaryfuel":"Coal",
+    "commissioningyear":2012,
+    "owner":"China Guodian Group Corporation",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.5281,22.8158 ]
+    },
+    "properties": {
+    "countrylong":"India",
+    "name":"MUNDRA UMPP",
+    "capacitymw":4000,
+    "primaryfuel":"Coal",
+    "commissioningyear":2012,
+    "owner":"",
+    "yearofcapacitydata":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.377,51.888 ]
+    },
+    "properties": {
+    "countrylong":"Kazakhstan",
+    "name":"Ekibastuz-1 power station",
+    "capacitymw":4000,
+    "primaryfuel":"Coal",
+    "commissioningyear":1982,
+    "owner":"Samruk-Energo JSC",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.49,36.402 ]
+    },
+    "properties": {
+    "countrylong":"South Korea",
+    "name":"Boryeong (poryang)",
+    "capacitymw":4000,
+    "primaryfuel":"Coal",
+    "commissioningyear":null,
+    "owner":"Korea Midland Power (KOMIPO)",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.5133,37.0543 ]
+    },
+    "properties": {
+    "countrylong":"South Korea",
+    "name":"Dangjin",
+    "capacitymw":4000,
+    "primaryfuel":"Coal",
+    "commissioningyear":null,
+    "owner":"Korea East West Power",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.8213,34.9512 ]
+    },
+    "properties": {
+    "countrylong":"South Korea",
+    "name":"Hadong",
+    "capacitymw":4000,
+    "primaryfuel":"Coal",
+    "commissioningyear":null,
+    "owner":"Korea Southern Power",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.233,36.904 ]
+    },
+    "properties": {
+    "countrylong":"South Korea",
+    "name":"Taean",
+    "capacitymw":4000,
+    "primaryfuel":"Coal",
+    "commissioningyear":null,
+    "owner":"Korea Western Power",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.6311,29.4828 ]
+    },
+    "properties": {
+    "countrylong":"United States of America",
+    "name":"W A Parish",
+    "capacitymw":4008.4,
+    "primaryfuel":"Coal",
+    "commissioningyear":1974.716495,
+    "owner":"NRG Texas Power LLC",
+    "yearofcapacitydata":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.9609,34.8352 ]
+    },
+    "properties": {
+    "countrylong":"Japan",
+    "name":"Hekinan power station",
+    "capacitymw":4100,
+    "primaryfuel":"Coal",
+    "commissioningyear":1997,
+    "owner":"Chubu Electric Power Co Inc",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9214,22.376 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Castle Peak power station",
+    "capacitymw":4108,
+    "primaryfuel":"Coal",
+    "commissioningyear":1986,
+    "owner":"Castle Peak Power Company Limited (CAPCO)",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.7706,-27.0955 ]
+    },
+    "properties": {
+    "countrylong":"South Africa",
+    "name":"Majuba power station",
+    "capacitymw":4110,
+    "primaryfuel":"Coal",
+    "commissioningyear":1999,
+    "owner":"Eskom",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.9689,-26.088 ]
+    },
+    "properties": {
+    "countrylong":"South Africa",
+    "name":"Kendal power station",
+    "capacitymw":4116,
+    "primaryfuel":"Coal",
+    "commissioningyear":1990,
+    "owner":"Eskom",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.6553,23.1899 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Huaneng Haimen power station",
+    "capacitymw":4144,
+    "primaryfuel":"Coal",
+    "commissioningyear":2011,
+    "owner":"China Huaneng Group Corporation (CHNG)",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.6423,4.1586 ]
+    },
+    "properties": {
+    "countrylong":"Malaysia",
+    "name":"Manjung power station",
+    "capacitymw":4180,
+    "primaryfuel":"Coal",
+    "commissioningyear":2009,
+    "owner":"TNB Janamanjung Sdn Bhd",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.1261,24.3031 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Houshi power station",
+    "capacitymw":4200,
+    "primaryfuel":"Coal",
+    "commissioningyear":2002,
+    "owner":"Huayang Electric Power Co Ltd",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1398,28.1142 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Huaneng Yuhuan power station",
+    "capacitymw":4200,
+    "primaryfuel":"Coal",
+    "commissioningyear":2006,
+    "owner":"China Huaneng Group Corporation (CHNG)",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.1902,23.8033 ]
+    },
+    "properties": {
+    "countrylong":"Taiwan",
+    "name":"Mailao",
+    "capacitymw":4200,
+    "primaryfuel":"Coal",
+    "commissioningyear":null,
+    "owner":"",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.7162,35.1679 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Huaneng Qinbei power station",
+    "capacitymw":4400,
+    "primaryfuel":"Coal",
+    "commissioningyear":2009,
+    "owner":"Huaneng Power International Ruiyang Co Ltd",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5109,29.481 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Ninghai power station",
+    "capacitymw":4400,
+    "primaryfuel":"Coal",
+    "commissioningyear":2007,
+    "owner":"Shenhua Guohua Electric Power Co Ltd",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.0843,39.9261 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Datong - Tashan Coal",
+    "capacitymw":4520,
+    "primaryfuel":"Coal",
+    "commissioningyear":2008,
+    "owner":"Tongmei Tashan Power Station",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.9021,32.6842 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"CPI Pingwei power station",
+    "capacitymw":4540,
+    "primaryfuel":"Coal",
+    "commissioningyear":2006,
+    "owner":"China Power Investment Corporation (CPI)",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.9261,35.3256 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Zouxian power station",
+    "capacitymw":4540,
+    "primaryfuel":"Coal",
+    "commissioningyear":1998,
+    "owner":"China Huadian Corporation",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.5532,22.823 ]
+    },
+    "properties": {
+    "countrylong":"India",
+    "name":"MUNDRA TPP",
+    "capacitymw":4620,
+    "primaryfuel":"Coal",
+    "commissioningyear":2010,
+    "owner":"",
+    "yearofcapacitydata":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.6719,24.0983 ]
+    },
+    "properties": {
+    "countrylong":"India",
+    "name":"VINDH_CHAL STPS",
+    "capacitymw":4760,
+    "primaryfuel":"Coal",
+    "commissioningyear":2002,
+    "owner":"",
+    "yearofcapacitydata":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.9228,21.8664 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Guohua Taishan power station",
+    "capacitymw":5000,
+    "primaryfuel":"Coal",
+    "commissioningyear":2007,
+    "owner":"Shenhua Guohua Electric Power Corporation",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1436,30.6283 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Jiaxing power station",
+    "capacitymw":5000,
+    "primaryfuel":"Coal",
+    "commissioningyear":2006,
+    "owner":"Jiaxing Power Generation Co Ltd",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.8131,29.9433 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Guodian Beilun power station",
+    "capacitymw":5060,
+    "primaryfuel":"Coal",
+    "commissioningyear":2002,
+    "owner":"China Guodian Group Corporation",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.4361,37.2369 ]
+    },
+    "properties": {
+    "countrylong":"South Korea",
+    "name":"Yeongheung",
+    "capacitymw":5080,
+    "primaryfuel":"Coal",
+    "commissioningyear":null,
+    "owner":"Korea South East Power (KOSEP)",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6003,31.3536 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Waigaoqiao power station",
+    "capacitymw":5240,
+    "primaryfuel":"Coal",
+    "commissioningyear":2004,
+    "owner":"Shanghai Electric Group Company Limited",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.5827,-7.7184 ]
+    },
+    "properties": {
+    "countrylong":"Indonesia",
+    "name":"PLTU Paiton I Unit 7 & 8",
+    "capacitymw":5355,
+    "primaryfuel":"Coal",
+    "commissioningyear":null,
+    "owner":"PT. Paiton Energy Corp",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.3265,51.2679 ]
+    },
+    "properties": {
+    "countrylong":"Poland",
+    "name":"BeÅ‚chatÃ³w",
+    "capacitymw":5472,
+    "primaryfuel":"Coal",
+    "commissioningyear":null,
+    "owner":"Polska Grupa Energetyczna SA",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.485,24.2131 ]
+    },
+    "properties": {
+    "countrylong":"Taiwan",
+    "name":"Taizhong Taichung",
+    "capacitymw":5500,
+    "primaryfuel":"Coal",
+    "commissioningyear":null,
+    "owner":"",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.3589,40.1947 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"Datang Tuoketuo power station",
+    "capacitymw":6720,
+    "primaryfuel":"Coal",
+    "commissioningyear":2007,
+    "owner":"Tuoketuo Power Company",
+    "yearofcapacitydata":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.1138,44.6885 ]
+    },
+    "properties": {
+    "countrylong":"China",
+    "name":"East Hope Metals Wucaiwan power station",
+    "capacitymw":7000,
+    "primaryfuel":"Coal",
+    "commissioningyear":2014,
+    "owner":"Xinjiang East Hope Non-Ferrous Metal Co Ltd.",
+    "yearofcapacitydata":null
+    }
+  }
+]
+}

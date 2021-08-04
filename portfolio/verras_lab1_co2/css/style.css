@@ -1,0 +1,146 @@
+/* stylesheet by C. Verras, 2020 */
+/* color scheme
+ghostwhite
+linen
+#C02C02
+dimgrey
+*/
+html {
+  box-sizing: border-box;
+}
+footer {
+  text-align: center;
+  background: dimgrey;
+  color: linen;
+  padding-top: 5px;
+  clear: both;
+}
+h2 {
+  font-size: 15px;
+}
+#mydiv {
+  font-family: "Staatliches";
+  font-size: 25px;
+  background-color: dimgray;
+  color: linen;
+  padding-top: 10px;
+  text-align: center;
+  justify-content: center;
+  text-decoration-color: ghostwhite;
+  height: 40px;
+}
+.body {
+  display: block;
+}
+#mapid {
+  height: 500px;
+  width: 80%;
+  display: inline-block;
+  border: 3px solid dimgrey;
+  border-radius: 2px;
+}
+#divcontainer {
+  width: 19%;
+  height: 500px;
+  display: inline-block;
+}
+#panel {
+  font-family: "Acme";
+  padding: 15px;
+  text-align: center;
+  vertical-align: top;
+  display: inline-block;
+  float: right;
+}
+#controlpanel {
+  padding: 15px;
+  vertical-align: bottom;
+  text-align: center;
+  font-family: "Staatliches";
+  display: inline-block;
+  float: right;
+}
+.sequence-control-container {
+  background-color: ghostwhite;
+  background: rgba(255,255,255,0.8);
+  border: grey;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+.range-slider {
+  width: 95%;
+}
+.legend-control-container {
+  width: 400px;
+  height: 30px;
+  background-color: gray;
+  padding: 10px;
+  line-height: 45px;
+  text-align: center;
+  border: solid gray 1px;
+}
+#forward {
+  float: right;
+}
+#reverse {
+  float: left;
+}
+.leaflet-popup-content-wrapper .leaflet-popup-content p {
+  margin: 10px 0;
+  font-family: "Signika";
+
+}
+.popupCustom .leaflet-popup-content-wrapper{
+  background: linen;
+  fill: linen;
+}
+.legend {
+  padding: 6px 10px;
+  font: 14px/16px;
+  font-family: "Acme";
+  background: ghostwhite;
+  background: rgba(255,255,255,0.8);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 5px;
+  width: 200px;
+}
+.temporal-legend {
+  padding: 6px 10px;
+  font: 14px/16px;
+  font-family: "Acme";
+  background: ghostwhite;
+  background: rgba(255,255,255,0.8);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 5px;
+}
+#temporal-legend {
+  font-size: 1em;
+  font-weight: 600;
+}
+#legendTitle {
+  text-align: center;
+  margin-bottom: 15px;
+  font-variant: small-caps;
+}
+.symbolsContainer {
+  float: left;
+  margin-left: 50px;
+}
+.legendCircle {
+  border-radius: 50%;
+  border: 1px solid #C02C02;
+  background: #C02C02;
+  opacity: .6;
+  display: inline-block;
+}
+.legendValue {
+  position: absolute;
+  right: 8px;
+}
+.button {
+  background: linen;
+  border: 1px solid #C02C02;
+}
+.leaflet-control-layers-selector {
+  appearance: checkbox;
+}

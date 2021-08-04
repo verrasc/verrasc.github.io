@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<meta name = "keywords" content="maps, interactive,CO2 emissions"/>
+		<title>Leaflet lab</title>
+		<!--put your external stylesheet links here-->
+	  <link rel="stylesheet" href="css/style.css"></link>
+		<link rel="stylesheet" href="lib/leaflet.css"></link>
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Acme">
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Signika">
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Permanent+Marker">
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Staatliches">
+		<!--[if IE<9]>
+			<link rel="stylesheet" href="css/style.ie.css">
+		<![endif]-->
+	</head>
+
+	<body>
+		<div id = "mydiv">CO2 emissions per capita</div>
+		<div id = "mapid"></div>
+		<div id = "divcontainer">
+		<!--	<form>
+				<h2>Filter the data:</h2>
+				<div id="filtering">
+					<div class="col-xs-4">
+						<input type="radio" name="fltCountries"value="All" checked>
+						<label for="All">All</label>
+					</div>
+					<div class="col-xs-4">
+						<input type="radio" id = "r1" name="fltCountries"value="Above Mean">
+						<label for="Above Mean">Above Mean</label>
+					</div>
+					<div class="col-xs-4">
+						<input type="radio" id = "r2" name="fltCountries"value="Below Mean">
+						<label for="Below Mean">Below Mean</label>
+					</div> -->
+			<div id= "panel">Click on a symbol to see the impact.</div>
+			<div id= "controlpanel"></div>
+		</div>
+		<footer><h2>All data from The World Bank, taken September 2020.</h2>
+			<a href="https://databank.worldbank.org/reports.aspx?source=2&series=EN.ATM.CO2E.PC" target="_blank">Carbon Emissions Data</a>
+		</footer>
+	 	<script src="lib/jquery-3.5.1.js"></script>
+		<script src="lib/leaflet-src.js"></script>
+		<script src="js/main.js"></script>
+	</body>
+</html>
